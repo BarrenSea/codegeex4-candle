@@ -1,3 +1,4 @@
+workspace = { members = [ "cli","server"] }
 [package]
 name = "codegeex4-candle"
 version = "0.1.0"
